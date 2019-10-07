@@ -1,6 +1,6 @@
 # Tinafille
 
-first line in readme file
+first line in readme file EDIT FROM THE REMOTE
 
 here I define my variables
 
