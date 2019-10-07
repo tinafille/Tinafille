@@ -6,7 +6,7 @@ here I define my variables
 
 here I restrict the sample HERE I EDIT LINE 7 LOCALLY
 
-Here I test for difference in groups
+Here I test for difference in groups EDIT ON LINE 9 REMOTE
 
 This is another line from the "other computer"
 
