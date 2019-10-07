@@ -10,4 +10,4 @@ Here I test for difference in groups
 
 This is another line from the "other computer"
 
-another edit after creating the second file
+another edit after creating the second file EDIT FROM THE LOCAL
